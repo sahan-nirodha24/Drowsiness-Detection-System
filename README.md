@@ -32,7 +32,7 @@ driver-drowsiness-detection/
 
 ## 🛠 Prerequisites
 
-Ensure you have Python installed (Python 3.8+ recommended). Install the required dependencies using pip:
+Ensure you have Python installed (Python 3.13 or higher recommended). Install the required dependencies using pip:
 
 ```bash
 pip install opencv-python numpy tensorflow scikit-learn scikit-image pyttsx3 pandas matplotlib
